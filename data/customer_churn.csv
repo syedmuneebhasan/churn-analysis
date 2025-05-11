@@ -1,0 +1,5 @@
+CustomerID,Gender,SeniorCitizen,Partner,Dependents,Tenure,PhoneService,Contract,MonthlyCharges,Churn
+0001,Female,0,Yes,No,1,Yes,Month-to-month,29.85,Yes
+0002,Male,0,No,No,34,Yes,One year,56.95,No
+0003,Male,0,No,No,2,Yes,Month-to-month,53.85,Yes
+0004,Female,0,Yes,No,45,No,Two year,42.30,No
